@@ -9,6 +9,7 @@ public class MoneymagerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MoneymagerApplication.class, args);
 		System.out.println("MoneymagerApplication started successfully!");
+		System.out.println("pull request test");
 	}
 
 }
