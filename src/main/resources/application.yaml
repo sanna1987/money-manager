@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: moneymager
+
+server:
+  port: 9090
